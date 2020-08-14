@@ -3,6 +3,6 @@
 ---
 ## Tristan Goossens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristangoossens&layout=compact)
 
 ![Tristan's github stats](https://github-readme-stats.vercel.app/api?username=tristangoossens)
